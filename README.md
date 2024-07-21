@@ -16,7 +16,7 @@ The Uber Rides Data Analysis project aims to analyze Uber ride data to identify 
 
 The dataset used in this analysis includes information about Uber rides such as ride purpose, distance, date and time, and more. The data is cleaned and processed to fill missing values and prepare it for analysis.
 
-## findings
+## Findings
 
 - Check how long do people travel with Uber?
 - What Hour Do Most People take Uber To Their Destination?
