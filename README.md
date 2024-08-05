@@ -28,5 +28,16 @@ The dataset used in this analysis includes information about Uber rides such as 
 
 ## Linear Regression: 
 Linear Regression is a supervised machine learning algorithm where the predicted output is continuous and has a constant slope. It’s used to predict values within a continuous range.
-![image](https://github.com/user-attachments/assets/b11e6b52-f21b-41c2-8a4d-a2f74fb5d201)
+
+## Decision Tree: 
+A decision tree is a graphical representation of all the possible solutions to a decision based on certain conditions
+
+## Random Forest: 
+Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. It can be used for both Classification and Regression problems in ML. It is based on the concept of ensemble learning, which is a process of combining multiple classifiers to solve a complex problem and to improve the performance of the model.
+
+## Gradient Boosting Regressor:
+Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. It builds the model in a stage-wise fashion like other boosting methods do, and it generalizes them by allowing optimization of an arbitrary differentiable loss function![image](https://github.com/user-
+
+![image](https://github.com/user-attachments/assets/d1539f86-2e49-46e4-b593-0930ff73a5dd)
+
 
