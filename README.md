@@ -39,7 +39,7 @@ Random Forest is a popular machine learning algorithm that belongs to the superv
 Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. It builds the model in a stage-wise fashion like other boosting methods do, and it generalizes them by allowing optimization of an arbitrary differentiable loss function.
 
 ## After applying different models on final dataset, we found different accuracy as given below 
-s 
+
 | Serial No. | Models                | Accuracy |
 |------------|-----------------------|----------|
 | 1          | Linear Regression     | 0.747545 |
